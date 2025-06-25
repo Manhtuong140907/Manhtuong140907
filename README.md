@@ -1,4 +1,4 @@
-## _nhmt_ 👋
+## _nhmt_ ( 14/09/2007 )👋
 <h1 align="center">Hi 👋, I'm Nguyễn Hữu Mạnh Tường</h1>
 <h3 align="center">Studing in Chuyen high school - Vinh university<br>Provincial excellent student grade 12 computer science<br>Provincial excellent student grade 9 in IT<br>Excellent student of town level, grade 9, IT</h3>
 
