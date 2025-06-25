@@ -1,6 +1,6 @@
 ## _nhmt_ 👋
 <h1 align="center">Hi 👋, I'm Nguyễn Hữu Mạnh Tường</h1>
-<h3 align="center">Studing in Chuyen high school - Vinh university<br>Provincial excellent student grade 12 computer science</h3>
+<h3 align="center">Studing in Chuyen high school - Vinh university<br>Provincial excellent student grade 12 computer science<br>Provincial excellent student grade 9 in IT<br>Excellent student of town level, grade 9, IT</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
